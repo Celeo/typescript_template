@@ -1,3 +1,3 @@
-export const addTwo = (a: number, b: number): number => {
+export function addTwo(a: number, b: number): number {
   return a + b;
-};
+}
